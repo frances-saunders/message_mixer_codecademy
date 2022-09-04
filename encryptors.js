@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "Message Mixer" in Codecademy
+//This file is to be used in conjunction with message-mixer.js & super-encoder.js
+
 // Declare and export the functions here.
 
 const caesarCipher = (str, amount = 0) => {
