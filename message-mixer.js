@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "Message Mixer" in Codecademy
+//This file is to be used in conjunction with encryptors.js & super-encoder.js
+
 // Import the functions from encryptors.js here.
 const encryptors = require('./encryptors.js');
 
